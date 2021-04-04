@@ -1,1 +1,31 @@
-# neo4j-tips-tricks
+# Neo4j Tips & Tricks
+
+Some Tips and Tricks about Neo4j.
+
+[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+![Neo4j](./images/neo4j-logo-256.png)
+
+## Useful scripts
+
+* Data dictionnary (tables)
+* Data dictionnary (relations)
+* Build nodes & edges
+* Delete existing nodes & edges
+* Rebuild all nodes & edges
+
+## Useful links
+
+...
+
+## Build with
+
+* [Git](https://git-scm.com) - Open source distributed version control system
+
+## Getting started with ...
+
+...
+
+## Contributing
+
+If you would like to contribute, read the CONTRIBUTING.md file to learn how to do so.
