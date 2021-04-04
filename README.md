@@ -18,6 +18,16 @@ Some Tips and Tricks about Neo4j.
 
 ...
 
+## Tomorrow I will learn about Graph
+
+* [Neo4j Blog](https://neo4j.com/blog/) - A blog about Neo4j ;)
+* [Synbioz Blog](https://www.synbioz.com/blog/tech/introduction-graph-db) - An introduction to graph-db
+* [Apache TinkerPop](http://tinkerpop.apache.org/) - A graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)
+* https://neo4j.com/blog/graph-visualization-neo4j-schemas-yfiles/
+* https://neo4j.com/data-integration/
+* https://neo4j.com/developer/neo4j-etl/
+* https://www.red-gate.com/simple-talk/sql/t-sql-programming/experiments-with-neo4j-using-a-graph-database-as-a-sql-server-metadata-hub/
+
 ## Build with
 
 * [Git](https://git-scm.com) - Open source distributed version control system
