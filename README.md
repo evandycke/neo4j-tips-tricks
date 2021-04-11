@@ -2,7 +2,7 @@
 
 Some Tips and Tricks about Neo4j.
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 ![Neo4j](./images/neo4j-logo-256.png)
 
@@ -14,11 +14,7 @@ Some Tips and Tricks about Neo4j.
 * Delete existing nodes & edges
 * Rebuild all nodes & edges
 
-## Useful links
-
-...
-
-## Tomorrow I will learn about Graph
+## Tomorrow I will learn
 
 * [Neo4j Blog](https://neo4j.com/blog/) - A blog about Neo4j ;)
 * [Synbioz Blog](https://www.synbioz.com/blog/tech/introduction-graph-db) - An introduction to graph-db
@@ -31,10 +27,6 @@ Some Tips and Tricks about Neo4j.
 ## Build with
 
 * [Git](https://git-scm.com) - Open source distributed version control system
-
-## Getting started with ...
-
-...
 
 ## Contributing
 
